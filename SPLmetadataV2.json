@@ -1,7 +1,7 @@
 {
   "name": "SPL Token",
   "symbol": "TSTSPL",
-  "uri": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/my-token-metadata/main/SPLmetadataV2.json",
+  "uri": "https://raw.githubusercontent.com/defistratgroup/tokenmetadata/refs/heads/main/SPLmetadataV2.json",
   "image": "https://gateway.pinata.cloud/ipfs/bafkreibtoyapk3tg5h5gzdabic3mi2a4gsfl6e4bgm3dvhl63bmtrx6mzm",
   "seller_fee_basis_points": 0
 }
